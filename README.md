@@ -1,2 +1,2 @@
-# Maze-Runner-the-impossible-level
-basically a fucking AI chess game... yeeeeeeeeeeee
+# MREN-178-Project
+Nights travails with a twist
